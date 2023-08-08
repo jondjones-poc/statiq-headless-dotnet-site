@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "TechWatching.dev": {
+    "JonDJones.DotNet.StaticSite": {
       "commandName": "Project",
       "commandLineArgs": "preview"
     }

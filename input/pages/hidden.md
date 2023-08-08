@@ -5,4 +5,4 @@ ShowInNavbar: false
 Order: 3
 ---
 
-Hidden page
+Hidden page!!

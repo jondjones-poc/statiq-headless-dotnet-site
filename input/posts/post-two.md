@@ -1,6 +1,7 @@
 Title: Post One
 Lead: This is the lead
-Published: 28/11/2021
+Published: 01/08/2023
+Image: /images/dummy.jpg
 Tags:
   - blog
 ---

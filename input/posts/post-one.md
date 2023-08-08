@@ -1,7 +1,7 @@
 Title: Post Two
 Lead: This is the lead
 Published: 02/08/2023
-Image: /images/example.png
+Image: /images/dummy.jpg
 Tags:
   - writing
 ---
